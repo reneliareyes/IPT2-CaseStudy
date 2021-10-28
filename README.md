@@ -41,7 +41,7 @@
     
       <div class="item">
         <h2><center><a href="file:///C:/Users/williard/Desktop/ipt2lab5/jc.html">jc</a></center></h2>
-        <img src="jc.jpg" alt="New york" style="width:99%;">
+        <img src="jc.jpg" alt="Japan" style="width:99%;">
       </div>
 
       <div class="item">
