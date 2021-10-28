@@ -51,7 +51,7 @@
       </div>
       <div class="item">
         <h2><center><a href="file:///C:/Users/williard/Desktop/ipt2lab5/shiela.html">Shiela</a></center></h2>
-        <img src="shiela.jpg" alt="Tarlac" style="width:99%;">
+        <img src="shiela.jpg" alt="Taoyuan" style="width:99%;">
       </div>
 
     </div>
